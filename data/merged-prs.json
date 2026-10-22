@@ -1,0 +1,12 @@
+{
+  "login": "Cordis798",
+  "pull_requests": [
+    {
+      "repository": "bytedance/deer-flow",
+      "number": 7254,
+      "url": "https://github.com/bytedance/deer-flow/pull/7254",
+      "title": "fix(api): preserve Request inputs in authenticated fetch",
+      "merged_at": "2026-10-22T08:05:44Z"
+    }
+  ]
+}

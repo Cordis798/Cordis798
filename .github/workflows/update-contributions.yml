@@ -1,0 +1,44 @@
+name: Update merged PR cards
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - tests/**
+      - .github/workflows/update-contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Test pagination, escaping and failure handling
+        run: python3 -m unittest discover -s tests -v
+      - name: Fetch public merged PRs and generate cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/update_contributions.py
+      - name: Publish changed cards
+        run: |
+          git add README.md assets/merged-prs data/merged-prs.json
+          if git diff --cached --quiet; then
+            echo "Merged PR cards are already up to date."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: update merged PR cards'
+          git push
