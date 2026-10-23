@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="194" viewBox="0 0 720 194" role="img" aria-labelledby="title desc">
+  <title id="title">bytedance/deer-flow #7358: fix(eval): distinguish booleans from numbers in snapshot grading</title>
+  <desc id="desc">Merged on 2026-10-23. Open the pull request for the diff and review.</desc>
+  <style>
+    .bg { fill: #ffffff; stroke: #d9e0e8; }
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+    .repo { fill: #536173; font-size: 16px; }
+    .title { fill: #18243a; font-size: 19px; font-weight: 600; }
+    .muted { fill: #627084; font-size: 13px; }
+    .pill { fill: #f1eafa; } .status { fill: #8250df; font-size: 12px; font-weight: 600; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; stroke: #30363d; } .repo, .muted { fill: #9ba8b7; }
+      .title { fill: #e6edf3; } .pill { fill: #282038; } .status { fill: #c5a4ff; }
+    }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="719" height="193" rx="14"/>
+  <rect class="pill" x="594" y="22" width="98" height="28" rx="14"/>
+  <text class="status" x="643" y="41" text-anchor="middle">MERGED</text>
+  <text class="repo" x="28" y="41">bytedance/deer-flow</text>
+  <text class="title" x="28" y="94">fix(eval): distinguish booleans from numbers in snapshot</text><text class="title" x="28" y="120">grading</text>
+  <text class="muted" x="28" y="169">#7358 · Merged 2026-10-23</text>
+  <text class="muted" x="692" y="169" text-anchor="end">View pull request →</text>
+</svg>

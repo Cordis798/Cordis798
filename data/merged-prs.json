@@ -3,6 +3,13 @@
   "pull_requests": [
     {
       "repository": "bytedance/deer-flow",
+      "number": 7358,
+      "url": "https://github.com/bytedance/deer-flow/pull/7358",
+      "title": "fix(eval): distinguish booleans from numbers in snapshot grading",
+      "merged_at": "2026-10-23T14:02:51Z"
+    },
+    {
+      "repository": "bytedance/deer-flow",
       "number": 7307,
       "url": "https://github.com/bytedance/deer-flow/pull/7307",
       "title": "fix(memory): apply Mem0 read policies to record conversion failures",
