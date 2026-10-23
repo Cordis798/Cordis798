@@ -3,6 +3,13 @@
   "pull_requests": [
     {
       "repository": "bytedance/deer-flow",
+      "number": 7307,
+      "url": "https://github.com/bytedance/deer-flow/pull/7307",
+      "title": "fix(memory): apply Mem0 read policies to record conversion failures",
+      "merged_at": "2026-10-23T09:57:14Z"
+    },
+    {
+      "repository": "bytedance/deer-flow",
       "number": 7254,
       "url": "https://github.com/bytedance/deer-flow/pull/7254",
       "title": "fix(api): preserve Request inputs in authenticated fetch",
