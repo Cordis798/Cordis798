@@ -1,6 +1,6 @@
 # 你好，我是陈艺航
 
-**Agent 运行时与 AI 全栈应用开发工程师** · 研究企业 AI 应用工作流
+**Agent 运行时与 AI 全栈应用开发工程师** ·  研究企业 AI 应用工作流
 
 [字节跳动 / deer-flow](https://github.com/bytedance/deer-flow)（84.4k⭐）上游贡献者 · [已合并的上游 PR](#open-source-contributions)
 
