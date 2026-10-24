@@ -3,6 +3,13 @@
   "pull_requests": [
     {
       "repository": "bytedance/deer-flow",
+      "number": 7372,
+      "url": "https://github.com/bytedance/deer-flow/pull/7372",
+      "title": "fix(subagents): exclude ambiguous tool calls from parent context snapshots",
+      "merged_at": "2026-10-24T02:26:22Z"
+    },
+    {
+      "repository": "bytedance/deer-flow",
       "number": 7358,
       "url": "https://github.com/bytedance/deer-flow/pull/7358",
       "title": "fix(eval): distinguish booleans from numbers in snapshot grading",

@@ -6,7 +6,9 @@
 
 <!-- MERGED-PRS:START -->
 
-**3 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+**4 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+
+[![bytedance/deer-flow #7372: fix(subagents): exclude ambiguous tool calls from parent context snapshots](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-58e6cdb56039a8c6.svg?v=a4ad593d3254)](https://github.com/bytedance/deer-flow/pull/7372)
 
 [![bytedance/deer-flow #7358: fix(eval): distinguish booleans from numbers in snapshot grading](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-0dfd877034ecbd8d.svg?v=4a64d714f6c3)](https://github.com/bytedance/deer-flow/pull/7358)
 
