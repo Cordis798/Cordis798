@@ -3,6 +3,13 @@
   "pull_requests": [
     {
       "repository": "bytedance/deer-flow",
+      "number": 7561,
+      "url": "https://github.com/bytedance/deer-flow/pull/7561",
+      "title": "fix(memory): honor Mem0 read policies during context deduplication",
+      "merged_at": "2026-10-26T11:44:01Z"
+    },
+    {
+      "repository": "bytedance/deer-flow",
       "number": 7372,
       "url": "https://github.com/bytedance/deer-flow/pull/7372",
       "title": "fix(subagents): exclude ambiguous tool calls from parent context snapshots",

@@ -23,7 +23,9 @@
 
 <!-- MERGED-PRS:START -->
 
-**4 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+**5 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+
+[![bytedance/deer-flow #7561: fix(memory): honor Mem0 read policies during context deduplication](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-c90866c33b35a336.svg?v=4313e477c5f1)](https://github.com/bytedance/deer-flow/pull/7561)
 
 [![bytedance/deer-flow #7372: fix(subagents): exclude ambiguous tool calls from parent context snapshots](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-58e6cdb56039a8c6.svg?v=a4ad593d3254)](https://github.com/bytedance/deer-flow/pull/7372)
 
