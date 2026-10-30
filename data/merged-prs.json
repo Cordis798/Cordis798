@@ -3,6 +3,13 @@
   "pull_requests": [
     {
       "repository": "bytedance/deer-flow",
+      "number": 7707,
+      "url": "https://github.com/bytedance/deer-flow/pull/7707",
+      "title": "perf(knowledge): bound concurrent WeKnora document checks",
+      "merged_at": "2026-10-29T23:08:01Z"
+    },
+    {
+      "repository": "bytedance/deer-flow",
       "number": 7561,
       "url": "https://github.com/bytedance/deer-flow/pull/7561",
       "title": "fix(memory): honor Mem0 read policies during context deduplication",

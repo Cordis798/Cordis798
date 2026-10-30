@@ -23,7 +23,9 @@
 
 <!-- MERGED-PRS:START -->
 
-**5 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+**6 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+
+[![bytedance/deer-flow #7707: perf(knowledge): bound concurrent WeKnora document checks](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-e780459f7c7eb295.svg?v=f2c1e0f4fb9f)](https://github.com/bytedance/deer-flow/pull/7707)
 
 [![bytedance/deer-flow #7561: fix(memory): honor Mem0 read policies during context deduplication](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-c90866c33b35a336.svg?v=4313e477c5f1)](https://github.com/bytedance/deer-flow/pull/7561)
 
