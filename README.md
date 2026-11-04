@@ -23,7 +23,15 @@
 
 <!-- MERGED-PRS:START -->
 
-**7 merged PRs · 1 repository** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+**11 merged PRs · 2 repositories** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+
+[![Cordis798/DeepDot #3: refactor(m2): 收敛单 Agent 并采用选定 Logo](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-b41a6b5217ecc840.svg?v=f5882a4a4b5f)](https://github.com/Cordis798/DeepDot/pull/3)
+
+[![Cordis798/DeepDot #2: feat(m1): 统一 DeepDot 品牌与应用资源](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-8d1d62865a72e06f.svg?v=374eed01420a)](https://github.com/Cordis798/DeepDot/pull/2)
+
+[![bytedance/deer-flow #7889: fix(community): initialize search TLS clients off the event loop](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-e6e84684e5c77e00.svg?v=8bd28db63c95)](https://github.com/bytedance/deer-flow/pull/7889)
+
+[![Cordis798/DeepDot #1: chore(m0): 建立 DeepDot 工程基线与跨平台 CI](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-05e84ad34b01a4d8.svg?v=270240eed403)](https://github.com/Cordis798/DeepDot/pull/1)
 
 [![bytedance/deer-flow #7738: fix(community): load retrieval TLS trust off the event loop](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-c9c8506daa9f4e5f.svg?v=f061ea0c4367)](https://github.com/bytedance/deer-flow/pull/7738)
 
