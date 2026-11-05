@@ -2,6 +2,13 @@
   "login": "Cordis798",
   "pull_requests": [
     {
+      "repository": "bytedance/deer-flow",
+      "number": 7890,
+      "url": "https://github.com/bytedance/deer-flow/pull/7890",
+      "title": "fix(memory): apply Honcho read policies to malformed search metadata",
+      "merged_at": "2026-11-04T23:04:15Z"
+    },
+    {
       "repository": "Cordis798/DeepDot",
       "number": 3,
       "url": "https://github.com/Cordis798/DeepDot/pull/3",

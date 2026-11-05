@@ -23,7 +23,9 @@
 
 <!-- MERGED-PRS:START -->
 
-**11 merged PRs · 2 repositories** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+**12 merged PRs · 2 repositories** · [查看全部](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ACordis798)
+
+[![bytedance/deer-flow #7890: fix(memory): apply Honcho read policies to malformed search metadata](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-5e01a0737389d97c.svg?v=1237d35acf58)](https://github.com/bytedance/deer-flow/pull/7890)
 
 [![Cordis798/DeepDot #3: refactor(m2): 收敛单 Agent 并采用选定 Logo](https://raw.githubusercontent.com/Cordis798/Cordis798/main/assets/merged-prs/pr-b41a6b5217ecc840.svg?v=f5882a4a4b5f)](https://github.com/Cordis798/DeepDot/pull/3)
 
