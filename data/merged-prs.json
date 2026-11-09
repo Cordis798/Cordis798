@@ -2,6 +2,13 @@
   "login": "Cordis798",
   "pull_requests": [
     {
+      "repository": "agentscope-ai/agentscope",
+      "number": 3387,
+      "url": "https://github.com/agentscope-ai/agentscope/pull/3387",
+      "title": "fix(app): clean up background tasks after registration faults",
+      "merged_at": "2026-11-09T03:07:57Z"
+    },
+    {
       "repository": "bytedance/deer-flow",
       "number": 7890,
       "url": "https://github.com/bytedance/deer-flow/pull/7890",
